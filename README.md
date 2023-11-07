@@ -1,2 +1,2 @@
 # DIP_demo
-DIP-data-analysis-platform-for-basic-hospitals
+The DIP data analysis auxiliary platform for basic hospitals is a medical management system developed for DIP reform.
